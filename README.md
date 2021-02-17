@@ -1,4 +1,4 @@
-### olá 👋
+### ola 👋
 😁  meu nome e soldat e moro no brasil, estou estudando programação
 e mais pra frente sobre web.
 
