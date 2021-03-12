@@ -6,6 +6,6 @@ e mais pra frente sobre web.
 
 a linguagen de programação que estou estudando no momento e a linguagem C
 
-eu também tenho interesse em hacking e em  reverse shell
+eu também tenho interesse em hacking, e tambem aprender reverse shell
 
 
