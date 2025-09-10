@@ -1,6 +1,6 @@
 # 👋 Olá  
 
-Meu nome pseudônimo **Carbanak**, moro no Brasil e sou estudante de **programação** e **segurança da informação**.  
+Meu pseudônimo é **Carbanak**, moro no Brasil e sou estudante de **programação** e **segurança da informação**.  
 
 Este repositório serve como espaço para compartilhar meus estudos, anotações e pequenos projetos. 🚀  
 
